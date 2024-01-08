@@ -71,3 +71,11 @@ span {
 .highScore {
   margin-bottom: 10px;
 }
+.playAgain {
+  margin: 10px 0;
+}
+.playAgainBtn {
+  border: 3px dashed black;
+  padding: 2px;
+  cursor: pointer;
+}
